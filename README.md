@@ -1,2 +1,2 @@
-# W1790271_FYP
+# SkinWiseMR - Novel Approach for Natural Beauty Remedy Recommendation System Using Machine Learning 
 Final Year Project 
