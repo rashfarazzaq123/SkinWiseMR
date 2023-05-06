@@ -7,7 +7,8 @@ With the skyrocketing prices of cosmetics and beauty products and their adverse 
   The author discovered, via extensive research conducted in the beauty sector, that the advancement of home remedies is greatly undervalued. Numerous home remedy recommendation systems are carried out throughout the health and agricultural domains, but in the beauty domain it's a misplaced section with a very helpful area for consumers who are already trying out home remedies.
 
 
-#Sollution 
+# Sollution 
+
 This research project aims to design, implement & evaluate a novel recommendation architecture for natural home beauty remedies and their procedures with ingredients based on the user preferences such as skin conditions and remedy types.
 
 
