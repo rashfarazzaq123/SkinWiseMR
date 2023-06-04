@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)  
 
 #database connection URL
-databaseConnetion = "mongodb+srv://rashfarazzaq:2259232@cluster0.bngfgw3.mongodb.net/remedydata?retryWrites=true&w=majority"
+databaseConnetion = ""
 # Create a new client and connect to the server
 client = MongoClient(databaseConnetion, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
@@ -80,7 +80,7 @@ def search_remedies():
     
 
 
-openai.api_key = "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"
+openai.api_key = ""
 import re
 
 @app.route('/chat', methods=['POST'])
