@@ -8,7 +8,15 @@ Many women are turning to natural home remedies for their beauty challenges beca
 The progress of natural remedies is highly ignored, as the author found after doing an in-depth study on the beauty industry. To create a reliable remedy recommendation system, the suggested method makes use of several machines learning techniques, including normalization, feature extraction, and CF approaches. The CF approach was selected because it evaluates the textual information related to facials and creates suggestions for certain users based on their preferences for components, such as skin types or problems with beauty. The author examined various models, including BERT and TF-IDF, and in the end decided to choose TF-IDF because of its quicker performance.Since the TF-IDF model is an unsupervised CF model and cannot be evaluated using accuracy metrics, Manual testing was used to evaluate it using a test set. The results showed how well the model worked at recommending natural beauty treatments based on users' preferences. By creating a remedy recommendation system that can provide consumers with precise and individualized suggestions for natural beauty remedies based on their unique requirements and preferences, this research project contributes to the beauty industry.
 
 
+#Other Resource 
+The auther have collected more than 1500 data from youtube to build the folowing system .
+https://www.kaggle.com/datasets/rashfarazzaq/natural-homemade-remedy-dataset-for-face-beauty
 
+Thesis 
+https://www.researchgate.net/publication/371348796_SkinWiseMR_Novel_Approach_for_Natural_Beauty_Remedy_Recommendation_System_Using_Machine_Learning
+
+Review Paper 
+https://www.researchgate.net/publication/371349035_SkinWiseMR_Review_of_Novel_Approach_for_Natural_Beauty_Remedy_Recommendation_System_Using_Machine_Learning?_sg%5B0%5D=-pb6MF9y4XcrGKTccHzhnraQqrnH7sIPQ0sPQoMHzSa83S5cVXmaeDG2rf7xZCqwrGSm0nDDqrtD3qinJWpFXdCMW-Ph98DAxcF9s0PK.JztwqXznFZv8oYDPqZzS54cKixjlWv7fJcmLJ9eQlm98clyExoQd9N6xAtjJvjPnRFV4Ywun3LuGSGA_JzHMBQ
 
 
 
